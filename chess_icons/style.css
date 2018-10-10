@@ -4,7 +4,7 @@ margin:0;
  
 }
 body {
-background-image:url("http://3.bp.blogspot.com/-aNRb0w9Uu2E/Uk0w1v9lXjI/AAAAAAAAHrM/RipxfZqlQQ4/s1600/Texture-Backgrounds-Wallpaper-HD.jpg");
+background-image:url("https://i.pinimg.com/originals/02/a1/1e/02a11ea2c9c21536d0f6a6fee2a47517.jpg");
 }
 
 img {
@@ -19,7 +19,7 @@ img {
  padding:10px;
  margin:0px;
  width:100%;
- background-color:lightyellow;
+ background-color:lightpink;
  text-align:center; 
  z-index:10;
  font-family: 'JustLettersMedium'; 
@@ -54,6 +54,7 @@ clear:both;
  float:left;
 }
 
+
 #container {
  margin-top:20%;
  margin-left:10%;
@@ -65,4 +66,6 @@ clear:both;
  border:solid 1px;
  padding: 10px;
  margin:10px;
+ background-color:pink;
+  text-align:center; 
 }
