@@ -8,10 +8,9 @@ background-image:url("https://i.pinimg.com/originals/02/a1/1e/02a11ea2c9c21536d0
 }
 
 img {
- display: block;
  margin-left: 10px;
  margin-top: 20px;
-width: 50%;
+
  }
 
 #title {
